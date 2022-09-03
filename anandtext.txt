@@ -1,3 +1,0 @@
-Hi anand here 
-
-1. Learn Go lang
