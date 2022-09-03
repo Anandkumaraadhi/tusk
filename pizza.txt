@@ -5,3 +5,4 @@ stpe 3: select your favorite pizza
 step 4: make payment 
 step 5 : if not select COD option
 enjoy your pizza 
+step 7 ... end the process
