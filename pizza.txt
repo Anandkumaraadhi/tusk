@@ -3,5 +3,5 @@ step 1: take a mobile
 step 2: open dominos app
 stpe 3: select your favorite pizza
 step 4: make payment 
-
-enjoy your pizza
+step 5 : if not select COD option
+enjoy your pizza 
