@@ -1,3 +1,4 @@
 hi anand here 
 
 1. Learn Go Lang
+2. for deleting
